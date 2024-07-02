@@ -1,4 +1,4 @@
-my first task as intern in PRODIGY INFOTECH.
+My first task as intern in PRODIGY INFOTECH.
 
 Task about:
 Creating a python program that can encrypt and decrypt text using the Caesar Cipher algorithm. Allowing user to input a messsage and a shift value to perform encryption and decryption.
