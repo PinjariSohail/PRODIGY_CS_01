@@ -5,7 +5,7 @@ Creating a python program that can encrypt and decrypt text using the Caesar Cip
 
 **Caesae Cipher**
 
-This program a simple CaesarCipher algorithm in Python programming language. The Caesar Cpher algorithm is used for encryption and decryption of text or message. Here every ltter of text or message is shifted by fixed number of positions defined by user as shift value.
+This program a simple CaesarCipher algorithm in Python programming language. The Caesar Cipher algorithm is used for encryption and decryption of text or message. Here every letter of text or message is shifted by fixed number of positions defined by user as shift value.
 
 **Features**
 
@@ -18,7 +18,7 @@ This program a simple CaesarCipher algorithm in Python programming language. The
 1.Execute Python programming script and follow the sintax.
 
 2.User inputs:
-* Choice of Encryption or decryption.
+* Choice of Encryption or Decryption.
 * User defined coustume message or text.
 * User define shift value.
       
